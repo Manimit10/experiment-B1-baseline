@@ -1,49 +1,47 @@
 const designData = [
   {
-    name: 'History of world war II',
+    name: 'Air Resistance and Gravity',
     description:
-      'Decide which is the best summary of the history of world war II among those provided in class and give your reasons.',
+      'Describe the effects of air resistance and gravity on the arrow to memorize how a better result can be achieved. ',
     Author: '',
     link: './previews/preview1.html',
     Time: '',
   },
   {
-    name: 'Historical eras',
-    description: 'Assess the quality of the five main historical eras presented in the history timeline.',
-    Author: 'Verónica',
+    name: 'Compass in classroom',
+    description: 'list items required to create a compass in the classroom and describe the steps.',
+    Author: '',
     link: './Previews/preview2.html',
-    Time: '120 minutes',
+    Time: '',
   },
   {
-    name: 'Art painting styles',
-    description:
-      'Define, from the theoretical perspective, what are the main concepts of Expressionism and Surrealism.',
+    name: 'Plant vocabulary',
+    description: 'Design a list of vocabulary cards related to plants.',
     Author: '',
     link: './Previews/preview3.html',
     Time: '',
   },
   {
-    name: "Shakespeare's Monologue",
+    name: 'Create Career Path by Gathering Data',
     description:
-      'Evaluate if the monologue watched in class could be considered a  Shakespearian monologue based on the authors’ style and historical characteristics.',
+      'Through research, gather data about aspiration of family members and invent career paths for these people and show the skills needed.',
     Author: '',
     link: './Previews/preview4.html',
-    Time: '120 minutes',
+    Time: '',
   },
   {
-    name: 'Network evaluation',
-    description: 'Judge WAN and LAN based on the security issues.',
-    Author: 'Karina Chappell Alaniz',
+    name: 'Conductor and Insulators',
+    description: 'Develop a set of conductors and insulators.',
+    Author: '',
     link: './Previews/preview5.html',
-    Time: '120 minutes',
+    Time: '',
   },
   {
-    name: 'Types of instruments',
-    description:
-      'Find errors within classification of instruments provided in class according to the following types: percussion, stringed, keyboard, wind, and electronic.',
+    name: 'Hypothesis of eukaryotic',
+    description: 'Design a hypothesis to study the effect of fungal cells in eukaryotic.',
     Author: '',
     link: './Previews/preview6.html',
-    Time: '120 minutes',
+    Time: '',
   },
 ];
 
